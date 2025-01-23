@@ -39,7 +39,7 @@ pip install -e .
 pip install -e ".[train]"
 ```
 ## 🗝️Training
-The training  instruction can be find in scripts/va/zhizi, including three stage script. 
+The training  instruction can be find in scripts/v1/zhizi, including three stage script. 
 ## 👍 Acknowledgement
 
 * [MoELLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA) The codebase we built upon and it is an efficient large language and vision assistant.
