@@ -20,6 +20,7 @@ Eve shows excellent performance in VLM task and Language task.
 ## Methods
 Our proposed model, Eve, incorporates a sophisticated three-stage framework, strategically integrating elastic vision experts at each stage. A key focus of our approach is the preservation of linguistic capabilities throughout the training process. Notably, the linguistic proficiency of the model remains unaffected by the variations in pre-training data used for the visual encoder during the first two stages of training. This stability in linguistic performance is a significant accomplishment, as it ensures that the model’s ability to process and comprehend language is not compromised by changes in the visual encoder’s pretraining.
 <p align="center"><img src="assets/method.PNG"></p>
+
 ## ⚙️Requirements and Installation
 We recommend the requirements as follows.
 
